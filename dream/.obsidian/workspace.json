@@ -1,60 +1,24 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "7e568328f94e7326",
+    "id": "274a64de9f6897a0",
     "type": "split",
     "children": [
       {
-        "id": "a6eb9549759f3608",
+        "id": "3b432899629fcf81",
         "type": "tabs",
         "children": [
           {
-            "id": "2113e2ad88d3336d",
-=======
-    "id": "4145ce65bd408112",
-    "type": "split",
-    "children": [
-      {
-        "id": "52a676ef7bcce57f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1db6b53b6fc80b78",
->>>>>>> origin/master
+            "id": "5a75c95e8542e175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "test.md",
-=======
-                "file": "ようこそ.md",
->>>>>>> origin/master
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "test"
-=======
-              "title": "ようこそ"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7d8195c4dbbb9dda",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "57d1b98b463f5ec1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
->>>>>>> origin/master
             }
           }
         ]
@@ -63,27 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "f06cc789f3a018f2",
+    "id": "09fd52aca149f4ca",
     "type": "split",
     "children": [
       {
-        "id": "01b42371d2b83da1",
+        "id": "3b383b0267b56885",
         "type": "tabs",
         "children": [
           {
-            "id": "32c8b6faf6d71200",
-=======
-    "id": "3c5bb0b507e45bad",
-    "type": "split",
-    "children": [
-      {
-        "id": "5dc2bfefd8fd0900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "daae2621c58a4fcb",
->>>>>>> origin/master
+            "id": "bfac48b582575b01",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -96,11 +48,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "7243fe7f90144181",
-=======
-            "id": "e1ad25bd6a168798",
->>>>>>> origin/master
+            "id": "cf79419a0f8cbd0d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -117,11 +65,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "16f4bded719f2fc7",
-=======
-            "id": "5960767e6cd49bc6",
->>>>>>> origin/master
+            "id": "100f6492c53760d7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -137,36 +81,20 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "85b5175abd621403",
+    "id": "7c7366406703f2fd",
     "type": "split",
     "children": [
       {
-        "id": "0c6bd7242cc61a26",
+        "id": "4fd15cd96544cdbd",
         "type": "tabs",
         "children": [
           {
-            "id": "b0e0bd829739f881",
-=======
-    "id": "8f0ade60f2deaaff",
-    "type": "split",
-    "children": [
-      {
-        "id": "e25226dcebf31ddb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "831793d1f1dec774",
->>>>>>> origin/master
+            "id": "0f1b0179fc6aa1f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "test.md",
-=======
-                "file": "ようこそ.md",
->>>>>>> origin/master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,45 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
               "title": "testへのバックリンク"
             }
           },
           {
-            "id": "c4f3e0c79c032909",
-=======
-              "title": "ようこそへのバックリンク"
-            }
-          },
-          {
-            "id": "0a5664598deca664",
->>>>>>> origin/master
+            "id": "dfb98255010250b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "test.md",
-=======
-                "file": "ようこそ.md",
->>>>>>> origin/master
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
               "title": "testからのアウトゴーイングリンク"
             }
           },
           {
-            "id": "0eb89339769f6995",
-=======
-              "title": "ようこそからのアウトゴーイングリンク"
-            }
-          },
-          {
-            "id": "4f53432d7c4a2f91",
->>>>>>> origin/master
+            "id": "5a675c46f4bcbcbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -229,11 +137,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "2866d29bd273331d",
-=======
-            "id": "9f995a1a3302e114",
->>>>>>> origin/master
+            "id": "d9628b246557ba56",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -247,30 +151,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "2ef78e628bfbb06d",
-=======
-            "id": "e2c3ae3251901cfd",
->>>>>>> origin/master
+            "id": "4ebf31d1ac40623f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "test.md",
-=======
-                "file": "ようこそ.md",
->>>>>>> origin/master
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
               "title": "testのアウトライン"
-=======
-              "title": "ようこそのアウトライン"
->>>>>>> origin/master
             }
           }
         ]
@@ -291,13 +183,6 @@
       "bases:新規ベースを作成": false
     }
   },
-<<<<<<< HEAD
-  "active": "2113e2ad88d3336d",
+  "active": "5a75c95e8542e175",
   "lastOpenFiles": []
-=======
-  "active": "1db6b53b6fc80b78",
-  "lastOpenFiles": [
-    "ようこそ.md"
-  ]
->>>>>>> origin/master
 }
